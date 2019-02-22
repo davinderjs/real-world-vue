@@ -17,6 +17,12 @@ export default new Vuex.Store({
       "education",
       "food",
       "community"
+    ],
+    events: [
+      { id: 1, title: "...", organizer: "..." },
+      { id: 2, title: "...", organizer: "..." },
+      { id: 3, title: "...", organizer: "..." },
+      { id: 4, title: "...", organizer: "..." }
     ]
   },
   mutations: {},
@@ -24,6 +30,9 @@ export default new Vuex.Store({
   getters: {
     catLength: state => {
       return state.categories.length;
+    },
+    getEventById: state => id => {
+      return state.events.find(event => event.id === id);
     }
   }
 });
