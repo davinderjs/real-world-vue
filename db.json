@@ -116,6 +116,24 @@
       "date": "2019-02-25T06:20:00.000Z",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 3401105,
+      "user": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "title": "K12",
+      "description": "",
+      "location": "",
+      "date": "2019-02-27T07:56:00.000Z",
+      "time": "3:00",
+      "attendees": []
     }
   ]
 }
