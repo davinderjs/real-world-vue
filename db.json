@@ -44,6 +44,60 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 3560885,
+      "user": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "title": "Nature fresh",
+      "description": "Let's clean up our nature",
+      "location": "Central Park",
+      "date": "2019-02-27T04:06:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 2441730,
+      "user": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "title": "Langar",
+      "description": "Free meal for everyone",
+      "location": "Gurdwara",
+      "date": "2019-02-24T04:12:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 1435739,
+      "user": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "title": "Housing gala",
+      "description": "How to own a house?",
+      "location": "TBD",
+      "date": "2019-02-28T04:16:00.000Z",
+      "time": "10:00",
+      "attendees": []
     }
   ]
 }
