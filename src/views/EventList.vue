@@ -31,8 +31,7 @@ export default {
       return parseInt(this.$route.query.page) || 1;
     },
     lastPage() {
-      const total = 3 * this.page;
-      if (total < this.$store.state.eventsTotal) {
+      if (this.$store.state.eventsTotal > this.page * 3) {
         return false;
       } else {
         return true;
