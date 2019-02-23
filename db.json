@@ -134,6 +134,24 @@
       "date": "2019-02-27T07:56:00.000Z",
       "time": "3:00",
       "attendees": []
+    },
+    {
+      "id": 2299215,
+      "user": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "title": "Success",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
