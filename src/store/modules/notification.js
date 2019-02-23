@@ -12,7 +12,7 @@ export const mutations = {
       id: nextId++
     });
   },
-  DELETE(notificationToRemove) {
+  DELETE(state, notificationToRemove) {
     state.notifications = state.notifications.filter(
       notification => notification.id !== notificationToRemove.id
     );
