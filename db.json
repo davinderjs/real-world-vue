@@ -98,6 +98,24 @@
       "date": "2019-02-28T04:16:00.000Z",
       "time": "10:00",
       "attendees": []
+    },
+    {
+      "id": 8634913,
+      "user": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davinder"
+      },
+      "title": "Community Event",
+      "description": "help each other",
+      "location": "NYC",
+      "date": "2019-02-25T06:20:00.000Z",
+      "time": "5:00",
+      "attendees": []
     }
   ]
 }
