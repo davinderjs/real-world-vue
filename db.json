@@ -242,6 +242,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 2781347,
+      "user": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "title": "Kitchen curry",
+      "description": "Let's cook something",
+      "location": "Jersey city",
+      "date": "2019-02-28T04:56:00.000Z",
+      "time": "7:00",
+      "attendees": []
     }
   ]
 }
