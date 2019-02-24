@@ -39,7 +39,8 @@
 
       <BaseSelect v-model="event.time" label="Select a time" :options="times" class="field"/>
 
-      <input type="submit" class="button -fill-gradient" value="Submit">
+      <!-- <input type="submit" class="button -fill-gradient" value="Submit"> -->
+      <BaseButton type="submit" buttonClass="-fill-gradient">Submit</BaseButton>
     </form>
   </div>
 </template>
@@ -48,6 +49,7 @@
 import { mapState, mapGetters } from "vuex";
 import Datepicker from "vuejs-datepicker";
 import NProgress from "nprogress";
+import { required } from "vuelidate/lib/validators";
 
 export default {
   components: {
