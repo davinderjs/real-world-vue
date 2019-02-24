@@ -206,6 +206,42 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 6801136,
+      "user": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "title": "Puppy Picknic",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5820675,
+      "user": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Davi"
+      },
+      "title": "Puppy Party",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
